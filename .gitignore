@@ -134,3 +134,4 @@ Output.txt
 *.xlsx
 .note
 /exports
+*.html
